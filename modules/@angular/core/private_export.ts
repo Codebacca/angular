@@ -53,8 +53,7 @@ export declare namespace __core_private_types__ {
   export type ReflectorReader = reflector_reader.ReflectorReader;
   export var ReflectorReader: typeof reflector_reader.ReflectorReader;
   export var ReflectorComponentResolver: typeof component_resolver.ReflectorComponentResolver;
-  export var CodegenComponentFactoryResolver:
-      typeof component_factory_resolver.CodegenComponentFactoryResolver;
+  export var CodegenComponentFactoryResolver: typeof component_factory_resolver.CodegenComponentFactoryResolver;
   export type AppElement = element.AppElement;
   export var AppElement: typeof element.AppElement;
   export var AppView: typeof view.AppView;
